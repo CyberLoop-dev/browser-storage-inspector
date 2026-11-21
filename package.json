@@ -1,0 +1,11 @@
+{
+  "name": "browser-storage-inspector",
+  "version": "1.0.0",
+  "description": "A local browser workspace for inspecting, filtering, editing, importing, and exporting storage for the current origin.",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
